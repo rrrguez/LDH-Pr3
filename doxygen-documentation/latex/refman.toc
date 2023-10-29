@@ -1,0 +1,181 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Package List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Hierarchical Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Class Hierarchy}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Class Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Class List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}File Index}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}File List}{7}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Namespace Documentation}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Package es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utilities}{9}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Package es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utils}{9}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Package top}{9}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Class Documentation}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utilities.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bellman\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ford Class Reference}{11}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Constructor \& Destructor Documentation}{11}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}BellmanFord()}{11}{subsubsection.6.1.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Member Function Documentation}{11}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}getDistances()}{11}{subsubsection.6.1.2.1}%
+\contentsline {subsubsection}{\numberline {6.1.2.2}getValue()}{12}{subsubsection.6.1.2.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.3}solve()}{12}{subsubsection.6.1.2.3}%
+\contentsline {section}{\numberline {6.2}es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utilities.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utilities Class Reference}{12}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Member Function Documentation}{13}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [1/12]}}{13}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [2/12]}}{13}{subsubsection.6.2.1.2}%
+\contentsline {subsubsection}{\numberline {6.2.1.3}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [3/12]}}{13}{subsubsection.6.2.1.3}%
+\contentsline {subsubsection}{\numberline {6.2.1.4}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [4/12]}}{13}{subsubsection.6.2.1.4}%
+\contentsline {subsubsection}{\numberline {6.2.1.5}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [5/12]}}{13}{subsubsection.6.2.1.5}%
+\contentsline {subsubsection}{\numberline {6.2.1.6}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [6/12]}}{13}{subsubsection.6.2.1.6}%
+\contentsline {subsubsection}{\numberline {6.2.1.7}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [7/12]}}{13}{subsubsection.6.2.1.7}%
+\contentsline {subsubsection}{\numberline {6.2.1.8}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [8/12]}}{13}{subsubsection.6.2.1.8}%
+\contentsline {subsubsection}{\numberline {6.2.1.9}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [9/12]}}{14}{subsubsection.6.2.1.9}%
+\contentsline {subsubsection}{\numberline {6.2.1.10}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [10/12]}}{14}{subsubsection.6.2.1.10}%
+\contentsline {subsubsection}{\numberline {6.2.1.11}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [11/12]}}{14}{subsubsection.6.2.1.11}%
+\contentsline {subsubsection}{\numberline {6.2.1.12}getFormat()\hspace {0.1cm}{\footnotesize \ttfamily [12/12]}}{14}{subsubsection.6.2.1.12}%
+\contentsline {subsubsection}{\numberline {6.2.1.13}isAcyclic()}{14}{subsubsection.6.2.1.13}%
+\contentsline {subsubsection}{\numberline {6.2.1.14}isDouble()}{14}{subsubsection.6.2.1.14}%
+\contentsline {subsubsection}{\numberline {6.2.1.15}isInteger()}{14}{subsubsection.6.2.1.15}%
+\contentsline {subsubsection}{\numberline {6.2.1.16}multiplyMatrices()}{14}{subsubsection.6.2.1.16}%
+\contentsline {subsubsection}{\numberline {6.2.1.17}printFile()}{15}{subsubsection.6.2.1.17}%
+\contentsline {subsubsection}{\numberline {6.2.1.18}simplifyString()}{15}{subsubsection.6.2.1.18}%
+\contentsline {subsubsection}{\numberline {6.2.1.19}thereIsPath()}{15}{subsubsection.6.2.1.19}%
+\contentsline {subsubsection}{\numberline {6.2.1.20}writeTextToFile()}{15}{subsubsection.6.2.1.20}%
+\contentsline {subsection}{\numberline {6.2.2}Member Data Documentation}{15}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}ALIGNMENT\_LEFT}{15}{subsubsection.6.2.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.2}ALIGNMENT\_RIGHT}{15}{subsubsection.6.2.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.3}DEFAULT\_COLUMN\_WIDTH}{15}{subsubsection.6.2.2.3}%
+\contentsline {section}{\numberline {6.3}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW Class Reference}{15}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Member Function Documentation}{16}{subsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.1.1}main()}{16}{subsubsection.6.3.1.1}%
+\contentsline {section}{\numberline {6.4}es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utils.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Pair$<$ F, S $>$ Class Template Reference}{16}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Constructor \& Destructor Documentation}{16}{subsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.1.1}Pair()}{16}{subsubsection.6.4.1.1}%
+\contentsline {subsection}{\numberline {6.4.2}Member Function Documentation}{16}{subsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.2.1}create()}{16}{subsubsection.6.4.2.1}%
+\contentsline {subsubsection}{\numberline {6.4.2.2}equals()}{17}{subsubsection.6.4.2.2}%
+\contentsline {subsubsection}{\numberline {6.4.2.3}hashCode()}{17}{subsubsection.6.4.2.3}%
+\contentsline {subsection}{\numberline {6.4.3}Member Data Documentation}{17}{subsection.6.4.3}%
+\contentsline {subsubsection}{\numberline {6.4.3.1}first}{17}{subsubsection.6.4.3.1}%
+\contentsline {subsubsection}{\numberline {6.4.3.2}second}{17}{subsubsection.6.4.3.2}%
+\contentsline {section}{\numberline {6.5}es.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ull.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}esit.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}utilities.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Power\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Set$<$ E $>$ Class Template Reference}{17}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Constructor \& Destructor Documentation}{17}{subsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.1.1}PowerSet()}{17}{subsubsection.6.5.1.1}%
+\contentsline {subsection}{\numberline {6.5.2}Member Function Documentation}{18}{subsection.6.5.2}%
+\contentsline {subsubsection}{\numberline {6.5.2.1}hasNext()}{18}{subsubsection.6.5.2.1}%
+\contentsline {subsubsection}{\numberline {6.5.2.2}iterator()}{18}{subsubsection.6.5.2.2}%
+\contentsline {subsubsection}{\numberline {6.5.2.3}next()}{18}{subsubsection.6.5.2.3}%
+\contentsline {subsubsection}{\numberline {6.5.2.4}remove()}{18}{subsubsection.6.5.2.4}%
+\contentsline {section}{\numberline {6.6}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW Class Reference}{18}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Constructor \& Destructor Documentation}{19}{subsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.1.1}TOPTW()}{19}{subsubsection.6.6.1.1}%
+\contentsline {subsection}{\numberline {6.6.2}Member Function Documentation}{19}{subsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.2.1}addNode()}{19}{subsubsection.6.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.6.2.2}addNodeDepot()}{19}{subsubsection.6.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.6.2.3}calculateDistanceMatrix()}{19}{subsubsection.6.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.6.2.4}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [1/4]}}{19}{subsubsection.6.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.6.2.5}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [2/4]}}{19}{subsubsection.6.6.2.5}%
+\contentsline {subsubsection}{\numberline {6.6.2.6}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [3/4]}}{20}{subsubsection.6.6.2.6}%
+\contentsline {subsubsection}{\numberline {6.6.2.7}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [4/4]}}{20}{subsubsection.6.6.2.7}%
+\contentsline {subsubsection}{\numberline {6.6.2.8}getDueTime()}{20}{subsubsection.6.6.2.8}%
+\contentsline {subsubsection}{\numberline {6.6.2.9}getMaxRoutes()}{20}{subsubsection.6.6.2.9}%
+\contentsline {subsubsection}{\numberline {6.6.2.10}getMaxTimePerRoute()}{20}{subsubsection.6.6.2.10}%
+\contentsline {subsubsection}{\numberline {6.6.2.11}getNodes()}{20}{subsubsection.6.6.2.11}%
+\contentsline {subsubsection}{\numberline {6.6.2.12}getPOIs()}{20}{subsubsection.6.6.2.12}%
+\contentsline {subsubsection}{\numberline {6.6.2.13}getReadyTime()}{20}{subsubsection.6.6.2.13}%
+\contentsline {subsubsection}{\numberline {6.6.2.14}getScore()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{20}{subsubsection.6.6.2.14}%
+\contentsline {subsubsection}{\numberline {6.6.2.15}getScore()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{21}{subsubsection.6.6.2.15}%
+\contentsline {subsubsection}{\numberline {6.6.2.16}getServiceTime()}{21}{subsubsection.6.6.2.16}%
+\contentsline {subsubsection}{\numberline {6.6.2.17}getTime()}{21}{subsubsection.6.6.2.17}%
+\contentsline {subsubsection}{\numberline {6.6.2.18}getVehicles()}{21}{subsubsection.6.6.2.18}%
+\contentsline {subsubsection}{\numberline {6.6.2.19}getX()}{21}{subsubsection.6.6.2.19}%
+\contentsline {subsubsection}{\numberline {6.6.2.20}getY()}{21}{subsubsection.6.6.2.20}%
+\contentsline {subsubsection}{\numberline {6.6.2.21}isDepot()}{21}{subsubsection.6.6.2.21}%
+\contentsline {subsubsection}{\numberline {6.6.2.22}setDueTime()}{21}{subsubsection.6.6.2.22}%
+\contentsline {subsubsection}{\numberline {6.6.2.23}setMaxRoutes()}{21}{subsubsection.6.6.2.23}%
+\contentsline {subsubsection}{\numberline {6.6.2.24}setMaxTimePerRoute()}{22}{subsubsection.6.6.2.24}%
+\contentsline {subsubsection}{\numberline {6.6.2.25}setNodes()}{22}{subsubsection.6.6.2.25}%
+\contentsline {subsubsection}{\numberline {6.6.2.26}setReadyTime()}{22}{subsubsection.6.6.2.26}%
+\contentsline {subsubsection}{\numberline {6.6.2.27}setScore()}{22}{subsubsection.6.6.2.27}%
+\contentsline {subsubsection}{\numberline {6.6.2.28}setServiceTime()}{22}{subsubsection.6.6.2.28}%
+\contentsline {subsubsection}{\numberline {6.6.2.29}setX()}{22}{subsubsection.6.6.2.29}%
+\contentsline {subsubsection}{\numberline {6.6.2.30}setY()}{22}{subsubsection.6.6.2.30}%
+\contentsline {subsubsection}{\numberline {6.6.2.31}toString()}{22}{subsubsection.6.6.2.31}%
+\contentsline {section}{\numberline {6.7}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWEvaluator Class Reference}{23}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Member Function Documentation}{23}{subsection.6.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.1.1}evaluate()}{23}{subsubsection.6.7.1.1}%
+\contentsline {subsection}{\numberline {6.7.2}Member Data Documentation}{23}{subsection.6.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.2.1}NO\_EVALUATED}{23}{subsubsection.6.7.2.1}%
+\contentsline {section}{\numberline {6.8}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWGRASP Class Reference}{23}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Constructor \& Destructor Documentation}{24}{subsection.6.8.1}%
+\contentsline {subsubsection}{\numberline {6.8.1.1}TOPTWGRASP()}{24}{subsubsection.6.8.1.1}%
+\contentsline {subsection}{\numberline {6.8.2}Member Function Documentation}{24}{subsection.6.8.2}%
+\contentsline {subsubsection}{\numberline {6.8.2.1}aleatorySelectionRCL()}{24}{subsubsection.6.8.2.1}%
+\contentsline {subsubsection}{\numberline {6.8.2.2}comprehensiveEvaluation()}{24}{subsubsection.6.8.2.2}%
+\contentsline {subsubsection}{\numberline {6.8.2.3}computeGreedySolution()}{24}{subsubsection.6.8.2.3}%
+\contentsline {subsubsection}{\numberline {6.8.2.4}fuzzySelectionAlphaCutRCL()}{24}{subsubsection.6.8.2.4}%
+\contentsline {subsubsection}{\numberline {6.8.2.5}fuzzySelectionBestFDRCL()}{24}{subsubsection.6.8.2.5}%
+\contentsline {subsubsection}{\numberline {6.8.2.6}getMaxScore()}{24}{subsubsection.6.8.2.6}%
+\contentsline {subsubsection}{\numberline {6.8.2.7}getSolution()}{25}{subsubsection.6.8.2.7}%
+\contentsline {subsubsection}{\numberline {6.8.2.8}getSolutionTime()}{25}{subsubsection.6.8.2.8}%
+\contentsline {subsubsection}{\numberline {6.8.2.9}GRASP()}{25}{subsubsection.6.8.2.9}%
+\contentsline {subsubsection}{\numberline {6.8.2.10}setSolution()}{25}{subsubsection.6.8.2.10}%
+\contentsline {subsubsection}{\numberline {6.8.2.11}setSolutionTime()}{25}{subsubsection.6.8.2.11}%
+\contentsline {subsubsection}{\numberline {6.8.2.12}updateSolution()}{25}{subsubsection.6.8.2.12}%
+\contentsline {subsection}{\numberline {6.8.3}Member Data Documentation}{25}{subsection.6.8.3}%
+\contentsline {subsubsection}{\numberline {6.8.3.1}NO\_EVALUATED}{25}{subsubsection.6.8.3.1}%
+\contentsline {section}{\numberline {6.9}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWReader Class Reference}{25}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Member Function Documentation}{26}{subsection.6.9.1}%
+\contentsline {subsubsection}{\numberline {6.9.1.1}readProblem()}{26}{subsubsection.6.9.1.1}%
+\contentsline {section}{\numberline {6.10}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWRoute Class Reference}{26}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Member Function Documentation}{26}{subsection.6.10.1}%
+\contentsline {subsubsection}{\numberline {6.10.1.1}getId()}{26}{subsubsection.6.10.1.1}%
+\contentsline {subsubsection}{\numberline {6.10.1.2}getPredeccesor()}{26}{subsubsection.6.10.1.2}%
+\contentsline {subsubsection}{\numberline {6.10.1.3}getSuccesor()}{26}{subsubsection.6.10.1.3}%
+\contentsline {subsubsection}{\numberline {6.10.1.4}setId()}{26}{subsubsection.6.10.1.4}%
+\contentsline {subsubsection}{\numberline {6.10.1.5}setPredeccesor()}{26}{subsubsection.6.10.1.5}%
+\contentsline {subsubsection}{\numberline {6.10.1.6}setSuccesor()}{27}{subsubsection.6.10.1.6}%
+\contentsline {section}{\numberline {6.11}top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWSolution Class Reference}{27}{section.6.11}%
+\contentsline {subsection}{\numberline {6.11.1}Constructor \& Destructor Documentation}{27}{subsection.6.11.1}%
+\contentsline {subsubsection}{\numberline {6.11.1.1}TOPTWSolution()}{27}{subsubsection.6.11.1.1}%
+\contentsline {subsection}{\numberline {6.11.2}Member Function Documentation}{28}{subsection.6.11.2}%
+\contentsline {subsubsection}{\numberline {6.11.2.1}addRoute()}{28}{subsubsection.6.11.2.1}%
+\contentsline {subsubsection}{\numberline {6.11.2.2}evaluateFitness()}{28}{subsubsection.6.11.2.2}%
+\contentsline {subsubsection}{\numberline {6.11.2.3}getAvailableVehicles()}{28}{subsubsection.6.11.2.3}%
+\contentsline {subsubsection}{\numberline {6.11.2.4}getCreatedRoutes()}{28}{subsubsection.6.11.2.4}%
+\contentsline {subsubsection}{\numberline {6.11.2.5}getDistance()}{28}{subsubsection.6.11.2.5}%
+\contentsline {subsubsection}{\numberline {6.11.2.6}getIndexRoute()}{28}{subsubsection.6.11.2.6}%
+\contentsline {subsubsection}{\numberline {6.11.2.7}getInfoSolution()}{28}{subsubsection.6.11.2.7}%
+\contentsline {subsubsection}{\numberline {6.11.2.8}getObjectiveFunctionValue()}{28}{subsubsection.6.11.2.8}%
+\contentsline {subsubsection}{\numberline {6.11.2.9}getPositionInRoute()}{28}{subsubsection.6.11.2.9}%
+\contentsline {subsubsection}{\numberline {6.11.2.10}getPredecessor()}{29}{subsubsection.6.11.2.10}%
+\contentsline {subsubsection}{\numberline {6.11.2.11}getPredecessors()}{29}{subsubsection.6.11.2.11}%
+\contentsline {subsubsection}{\numberline {6.11.2.12}getProblem()}{29}{subsubsection.6.11.2.12}%
+\contentsline {subsubsection}{\numberline {6.11.2.13}getSuccessor()}{29}{subsubsection.6.11.2.13}%
+\contentsline {subsubsection}{\numberline {6.11.2.14}getSuccessors()}{29}{subsubsection.6.11.2.14}%
+\contentsline {subsubsection}{\numberline {6.11.2.15}getWaitingTime()}{29}{subsubsection.6.11.2.15}%
+\contentsline {subsubsection}{\numberline {6.11.2.16}initSolution()}{29}{subsubsection.6.11.2.16}%
+\contentsline {subsubsection}{\numberline {6.11.2.17}isDepot()}{29}{subsubsection.6.11.2.17}%
+\contentsline {subsubsection}{\numberline {6.11.2.18}isEqual()}{29}{subsubsection.6.11.2.18}%
+\contentsline {subsubsection}{\numberline {6.11.2.19}printSolution()}{30}{subsubsection.6.11.2.19}%
+\contentsline {subsubsection}{\numberline {6.11.2.20}setAvailableVehicles()}{30}{subsubsection.6.11.2.20}%
+\contentsline {subsubsection}{\numberline {6.11.2.21}setObjectiveFunctionValue()}{30}{subsubsection.6.11.2.21}%
+\contentsline {subsubsection}{\numberline {6.11.2.22}setPositionInRoute()}{30}{subsubsection.6.11.2.22}%
+\contentsline {subsubsection}{\numberline {6.11.2.23}setPredecessor()}{30}{subsubsection.6.11.2.23}%
+\contentsline {subsubsection}{\numberline {6.11.2.24}setSuccessor()}{30}{subsubsection.6.11.2.24}%
+\contentsline {subsubsection}{\numberline {6.11.2.25}setWaitingTime()}{30}{subsubsection.6.11.2.25}%
+\contentsline {subsection}{\numberline {6.11.3}Member Data Documentation}{30}{subsection.6.11.3}%
+\contentsline {subsubsection}{\numberline {6.11.3.1}NO\_INITIALIZED}{30}{subsubsection.6.11.3.1}%
+\contentsline {chapter}{\numberline {7}File Documentation}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/es/ull/esit/utilities/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Bellman\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Ford.java File Reference}{31}{section.7.1}%
+\contentsline {section}{\numberline {7.2}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/es/ull/esit/utilities/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utilities.java File Reference}{31}{section.7.2}%
+\contentsline {section}{\numberline {7.3}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/es/ull/esit/utilities/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Power\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Set.java File Reference}{32}{section.7.3}%
+\contentsline {section}{\numberline {7.4}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/es/ull/esit/utils/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Pair.java File Reference}{32}{section.7.4}%
+\contentsline {section}{\numberline {7.5}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW.java File Reference}{32}{section.7.5}%
+\contentsline {section}{\numberline {7.6}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW.java File Reference}{32}{section.7.6}%
+\contentsline {section}{\numberline {7.7}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWEvaluator.java File Reference}{33}{section.7.7}%
+\contentsline {section}{\numberline {7.8}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWGRASP.java File Reference}{33}{section.7.8}%
+\contentsline {section}{\numberline {7.9}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWReader.java File Reference}{33}{section.7.9}%
+\contentsline {section}{\numberline {7.10}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWRoute.java File Reference}{34}{section.7.10}%
+\contentsline {section}{\numberline {7.11}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Rebeca/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/main/java/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWSolution.java File Reference}{34}{section.7.11}%
+\contentsline {chapter}{Index}{35}{section*.44}%
